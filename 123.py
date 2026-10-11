@@ -1,1 +1,2 @@
-print ("hello world")
+name = ("ruslan")
+print ("hello world and",name)

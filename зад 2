@@ -1,0 +1,4 @@
+def count_items(nums):
+    if not nums:
+        return 0
+    return 1 + count_items(nums[1:])
